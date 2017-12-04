@@ -1,0 +1,33 @@
+﻿@model CustomLogin.Models.User
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+
+}
+
+<div class='preload login--container'>
+    @using (Html.BeginForm("Autherize", "Login", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class='login--form'>
+            <div class='login--username-container'>
+                @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-4" })
+                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+            <div class='login--password-container'>
+                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-4" })
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                <input type="submit" value="Login" class="btn-default" />
+                <input type="reset" value="Clear" class="btn-default" />
+            </div>
+        </div>
+        <div class='login--toggle-container'>
+            <small>Hey you,</small>
+            <div class='js-toggle-login'>Login</div>
+            <small>already</small>
+        </div>
+    }
+</div>

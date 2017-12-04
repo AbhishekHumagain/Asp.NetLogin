@@ -1,0 +1,92 @@
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\ApplicationInsights.config
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\CustomLogin.dll.config
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\CustomLogin.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\CustomLogin.pdb
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Antlr3.Runtime.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\EntityFramework.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.Web.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.ApplicationInsights.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Newtonsoft.Json.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Helpers.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Mvc.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Optimization.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Razor.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.Deployment.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.Razor.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\WebGrease.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\EntityFramework.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Helpers.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Mvc.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Optimization.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.Razor.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.Deployment.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\System.Web.WebPages.Razor.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Antlr3.Runtime.pdb
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Newtonsoft.Json.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.ApplicationInsights.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\Microsoft.AI.Web.xml
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csprojResolveAssemblyReference.cache
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csproj.CoreCompileInputs.cache
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\obj\Debug\CustomLogin.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\obj\Debug\CustomLogin.pdb
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\EntityFramework.SqlServer.dll
+c:\users\hustler\source\repos\CustomLogin\CustomLogin\bin\EntityFramework.SqlServer.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\ApplicationInsights.config
+F:\FYP development\CustomLogin\CustomLogin\bin\CustomLogin.dll.config
+F:\FYP development\CustomLogin\CustomLogin\bin\CustomLogin.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\CustomLogin.pdb
+F:\FYP development\CustomLogin\CustomLogin\bin\Antlr3.Runtime.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\EntityFramework.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\EntityFramework.SqlServer.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.Agent.Intercept.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.DependencyCollector.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.Web.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.WindowsServer.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.ApplicationInsights.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.Web.Infrastructure.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\Newtonsoft.Json.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Helpers.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Mvc.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Optimization.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Razor.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.Deployment.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.Razor.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\WebGrease.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\EntityFramework.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\EntityFramework.SqlServer.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Helpers.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Mvc.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Optimization.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.Razor.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.Deployment.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\System.Web.WebPages.Razor.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Antlr3.Runtime.pdb
+F:\FYP development\CustomLogin\CustomLogin\bin\Newtonsoft.Json.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.ApplicationInsights.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.DependencyCollector.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.WindowsServer.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\Microsoft.AI.Web.xml
+F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csprojResolveAssemblyReference.cache
+F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csproj.CoreCompileInputs.cache
+F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.dll
+F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.pdb

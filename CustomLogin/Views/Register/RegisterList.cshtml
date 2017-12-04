@@ -1,0 +1,38 @@
+﻿@model CustomLogin.Models.User
+
+@{
+    ViewBag.Title = "RegisterList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>RegisterList</h2>
+
+<table class="table table-striped table-hover table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.LabelFor(model => model.UserID, htmlAttributes: new { @class = "control-label col-md-2" })
+            </th>
+            <th>
+                @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            </th>
+            <th>
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            </th>
+            <th>
+                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.UserProfiles)
+        {
+            <tr>
+                <td>@user.UserID</td>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.Password</td>
+            </tr>
+        }
+    </tbody>
+</table>
