@@ -90,3 +90,7 @@ F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csprojResolveAs
 F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.csproj.CoreCompileInputs.cache
 F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.dll
 F:\FYP development\CustomLogin\CustomLogin\obj\Debug\CustomLogin.pdb
+F:\FYP development\CustomLogin\CustomLogin\bin\PagedList.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\PagedList.Mvc.dll
+F:\FYP development\CustomLogin\CustomLogin\bin\PagedList.xml
+F:\FYP development\CustomLogin\CustomLogin\bin\PagedList.Mvc.xml

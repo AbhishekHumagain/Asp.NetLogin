@@ -39,5 +39,6 @@ namespace CustomLogin.Models
 
         public List<User> UserProfiles { get; set; }
 
+       
     }
 }

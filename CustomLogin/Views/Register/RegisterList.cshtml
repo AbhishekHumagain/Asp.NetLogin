@@ -1,38 +1,66 @@
-﻿@model CustomLogin.Models.User
-
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model CustomLogin.Models.User
 @{
     ViewBag.Title = "RegisterList";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-
 <h2>RegisterList</h2>
+<p>
+    @using (Html.BeginForm("RegisterList", "Register", FormMethod.Get))
+    {
+        <b>Search By:</b>
+        @Html.RadioButton("searchBy", "UserName", true) <text>User Name</text>
+        @Html.RadioButton("searchBy", "Email") <text>Email</text> <br />
+        @Html.TextBox("search")<input type="submit" value="Search" />
+    }
+</p>
 
-<table class="table table-striped table-hover table-bordered">
-    <thead class="thead-dark">
-        <tr>
-            <th>
-                @Html.LabelFor(model => model.UserID, htmlAttributes: new { @class = "control-label col-md-2" })
-            </th>
-            <th>
-                @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
-            </th>
-            <th>
-                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
-            </th>
-            <th>
-                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var user in Model.UserProfiles)
-        {
+
+
+<div>
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
             <tr>
-                <td>@user.UserID</td>
-                <td>@user.UserName</td>
-                <td>@user.Email</td>
-                <td>@user.Password</td>
+                <th>
+                    @Html.LabelFor(model => model.UserID, htmlAttributes: new { @class = "control-label col-md-2" })
+                </th>
+                <th>
+                    @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-6" })
+                </th>
+                <th>
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                </th>
+                <th>
+                    @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                </th>
+                <th>
+                    Action
+                </th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.UserProfiles)
+            {
+                <tr>
+                    <td>@user.UserID</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Password</td>
+                    <td>
+                        <a class="btn btn-danger" href="~/Register/Delete?id=@user.UserID">
+                            <i class="fa fa-trash-o fa-lg"></i> Delete
+                        </a>
+                     
+                        <a class="btn btn-primary" href="~/Register/Edit?id=@user.UserID">
+                            <i class="fa fa-pencil-square-o"></i> Edit
+
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

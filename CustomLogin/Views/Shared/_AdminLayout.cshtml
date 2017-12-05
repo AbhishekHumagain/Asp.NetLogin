@@ -6,6 +6,10 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+
+    <link rel="stylesheet" href="~/Content/font-awesome.min.css">
+    
+    
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -25,6 +29,11 @@
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                     <li>@Html.ActionLink("Login", "Index", "Login")</li>
                     <li>@Html.ActionLink("Register", "Register", "Register")</li>
+                        @if (Session["userID"] == null)
+                        {
+                            Response.Redirect("~/Login/Index");
+
+                        }
                     <li>@Html.ActionLink("RegisterList", "RegisterList", "Register")</li>
                 </ul>
             </div>
